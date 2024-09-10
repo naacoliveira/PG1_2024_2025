@@ -6,6 +6,7 @@ int main ()
 
     printf("Hello!\n");
     printf("val = %d\n", val);
+    printf("that's all folk's\n");
 
     return 0;
 }
